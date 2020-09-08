@@ -1,4 +1,4 @@
-This file contains language that is considered offensive and should be flagged by an inclusive language bot with suggestions on how to change the language to be more inclusive.
+This file contains language that is considered offensive and should be flagged by an inclusive language app with suggestions on how to change the language to be more inclusive.
 
 ## Prohibited Terms
 whitelisted
