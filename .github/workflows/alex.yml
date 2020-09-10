@@ -14,14 +14,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: action/checkout@v2
-        
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-        with:
-            node-version: 12.x
-        
       - name: Comment on new PR
         uses: brown-ccv/alex-recommends@v1.1.2
         with:
