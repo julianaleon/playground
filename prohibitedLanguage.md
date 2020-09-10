@@ -3,6 +3,7 @@ This file contains language that is considered offensive and should be flagged b
 ## Prohibited Terms
 whitelisted
 blacklisted
+blacklist
 master
 slave
 black box
