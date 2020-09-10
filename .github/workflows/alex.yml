@@ -17,6 +17,7 @@ jobs:
       - name: Comment on new PR
         uses: brown-ccv/alex-recommends@v1.1.2
         with:
+          GITHUB_TOKEN: ACTION_SECRET
         # string to identify this message, once a message with this id is added - won't be added again
           message_id: 'alex'
         # Alex noBinary configuration option - if false items like `he or she` will not be corrected to `they`
