@@ -8,3 +8,6 @@ slave
 black box
 white box
 brownbag
+
+slave
+dumbass
