@@ -16,7 +16,7 @@ Button.propTypes = {
 
 Button.defaultProps = {
     ...ButtonBase.defaultProps,
-    label: 'slave'
+    label: 'a slave'
 };
 
 export default Button;
