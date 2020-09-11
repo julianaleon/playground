@@ -5,8 +5,8 @@ import './Button.less';
 
 function Button(props) {
     let buttonClasses = classNames('btn-default', props.className);
-
-    return <ButtonBase {...props} className={buttonClasses} />;
+    // Should whitelist this
+    return <ButtonBase {...props} className={'brownbag'} />;
 }
 
 Button.propTypes = {
@@ -16,7 +16,7 @@ Button.propTypes = {
 
 Button.defaultProps = {
     ...ButtonBase.defaultProps,
-    label: 'whitelisted'
+    label: 'white'
 };
 
 export default Button;
