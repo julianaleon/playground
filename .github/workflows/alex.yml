@@ -23,5 +23,5 @@ jobs:
         # Alex noBinary configuration option - if false items like `he or she` will not be corrected to `they`
           no_binary: false
         # Alex profanitySureness configuration option - 0=unlikely, 1=maybe, 2=likely
-          profanity_sureness: 2
+          profanity_sureness: 1
 
