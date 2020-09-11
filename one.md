@@ -1,4 +1,4 @@
 another test
-this
-one
+this one
 is on the blacklist
+with multiple terms like: slave
