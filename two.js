@@ -16,7 +16,7 @@ Button.propTypes = {
 
 Button.defaultProps = {
     ...ButtonBase.defaultProps,
-    label: 'whitelisted'
+    label: 'blacklist'
 };
 
 export default Button;
