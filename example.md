@@ -5,6 +5,6 @@ Blacklist urls:
 google.com
 airbnb.com
 
-Whitelist some urls:
+whitelist:
 vrbo.com
 hotels.com
